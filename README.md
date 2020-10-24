@@ -4,7 +4,7 @@
 # Tech I love 
 
 <div style="display: flex">
-<img src="https://img.shields.io/badge/-React-ffffff?style=flat-square&logo=react&logoColor=61DAFB" width="150">
-<img src="https://img.shields.io/badge/-Typescript-ffffff?style=flat-square&logo=typescript&logoColor=007ACC" width="150">
-<img src="https://img.shields.io/badge/-Haskell-ffffff?style=flat-square&logo=haskell&logoColor=5D4F85" width="150">
+<img src="https://img.shields.io/badge/-React-ffffff?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/-Typescript-ffffff?style=flat-square&logo=typescript&logoColor=007ACC" >
+<img src="https://img.shields.io/badge/-Haskell-ffffff?style=flat-square&logo=haskell&logoColor=5D4F85" >
 </div>
