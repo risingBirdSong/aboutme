@@ -1,2 +1,2 @@
 # Hi i'm Peter I'm learning and enjoying Haskell 😊
-<img src="https://github-readme-stats.vercel.app/api?username=risingBirdSong&layout=compact&count_private=true&theme=tokyonight&line_height=22show_icons=true&hide=issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risingBirdSong&layout=compact&theme=tokyonight&line_height=100hide_title=true&hide_border=true" >
+<img src="https://github-readme-stats.vercel.app/api?username=risingBirdSong&layout=compact&count_private=true&theme=tokyonight&line_height=23show_icons=true&hide=issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risingBirdSong&layout=compact&theme=tokyonight&line_height=90hide_title=true&hide_border=true" >
